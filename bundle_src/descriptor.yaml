@@ -1,0 +1,5 @@
+code: product-listing
+description: Template for simple cards design
+components:
+  widgets:
+    - ui/widgets/widgets-dir/cards-widget/cards-descriptor.yaml
